@@ -24,3 +24,5 @@ nginx:1.25
 nicolaka/netshoot:v0.13
 nacos/nacos-server:v2.4.3
 redis:7.4
+apache/rocketmq:4.9.7
+apacherocketmq/rocketmq-dashboard:latest
