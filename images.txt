@@ -17,13 +17,14 @@
 # redis:7.0.12-debian-11-r19
 
 
-mysql:5.7.44
-grafana/grafana:9.5.3
-jenkins/jenkins:jdk17
-nginx:1.25
-nicolaka/netshoot:v0.13
-nacos/nacos-server:v2.4.3
-redis:7.4
-apache/rocketmq:4.9.7
-apacherocketmq/rocketmq-dashboard:latest
-minio/minio:latest
+#mysql:5.7.44
+#grafana/grafana:9.5.3
+#jenkins/jenkins:jdk17
+#nginx:1.25
+#nicolaka/netshoot:v0.13
+#nacos/nacos-server:v2.4.3
+#redis:7.4
+#apache/rocketmq:4.9.7
+#apacherocketmq/rocketmq-dashboard:latest
+#minio/minio:latest
+minio/mc:latest
