@@ -15,13 +15,14 @@
 
 # -------已拉取---------------------------------------------------------
 # mysql:5.7.44
+mysql:8.0.40
 # mysql:8.2.0
 # grafana/grafana:9.5.3
 # jenkins/jenkins:jdk17
 # nginx:1.25
 # nicolaka/netshoot:v0.13
 # nacos/nacos-server:v2.4.3
-nacos/nacos-server:v2.0.4
+# nacos/nacos-server:v2.0.4
 # redis:7.4
 # apache/rocketmq:4.9.7
 # apacherocketmq/rocketmq-dashboard:latest
