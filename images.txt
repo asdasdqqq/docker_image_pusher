@@ -3,28 +3,28 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-# mysql:8.2.0
-# nacos/nacos-server:2.0.1
-# ----------------------------------------------------------------
 
+# ----------------------------------------------------------------
 # postgres:13.7-bullseye
 # postgresql:11.14.0-debian-10-r22
 # sonarqube:9.9.7-community
 # nexus3:3.29.0
-
 # mongodb:5.0.10-debian-11-r3
 # redis:6.2.7-alpine3.16
 # redis:7.0.12-debian-11-r19
 
+# -------已拉取---------------------------------------------------------
+# mysql:5.7.44
+# mysql:8.2.0
+# grafana/grafana:9.5.3
+# jenkins/jenkins:jdk17
+# nginx:1.25
+# nicolaka/netshoot:v0.13
+# nacos/nacos-server:v2.4.3
+nacos/nacos-server:2.0.4
+# redis:7.4
+# apache/rocketmq:4.9.7
+# apacherocketmq/rocketmq-dashboard:latest
+# minio/minio:latest
+# minio/mc:latest
 
-#mysql:5.7.44
-#grafana/grafana:9.5.3
-#jenkins/jenkins:jdk17
-#nginx:1.25
-#nicolaka/netshoot:v0.13
-#nacos/nacos-server:v2.4.3
-#redis:7.4
-#apache/rocketmq:4.9.7
-#apacherocketmq/rocketmq-dashboard:latest
-#minio/minio:latest
-minio/mc:latest
