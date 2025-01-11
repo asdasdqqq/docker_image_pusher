@@ -15,7 +15,7 @@
 
 # -------已拉取---------------------------------------------------------
 # mysql:5.7.44
-mysql:8.0.40
+# mysql:8.0.40
 # mysql:8.2.0
 # grafana/grafana:9.5.3
 # jenkins/jenkins:jdk17
@@ -28,4 +28,5 @@ mysql:8.0.40
 # apacherocketmq/rocketmq-dashboard:latest
 # minio/minio:latest
 # minio/mc:latest
+bitnami/etcd:3.4.35
 
