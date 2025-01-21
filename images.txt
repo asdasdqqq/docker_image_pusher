@@ -22,10 +22,10 @@
 # nacos/nacos-server:v2.4.3
 # nacos/nacos-server:v2.0.4
 # redis:7.4
-redis:6.2.3
+# redis:6.2.3
 # apache/rocketmq:4.9.7
 # apacherocketmq/rocketmq-dashboard:latest
 # minio/minio:latest
 # minio/mc:latest
 # bitnami/etcd:3.4.35
-
+snowdreamtech/frps:latest
