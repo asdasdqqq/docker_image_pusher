@@ -24,8 +24,9 @@
 # redis:7.4
 # redis:6.2.3
 # apache/rocketmq:4.9.7
+apache/rocketmq:5.2.0
 # apacherocketmq/rocketmq-dashboard:latest
 # minio/minio:latest
 # minio/mc:latest
 # bitnami/etcd:3.4.35
-snowdreamtech/frps:latest
+# snowdreamtech/frps:latest
