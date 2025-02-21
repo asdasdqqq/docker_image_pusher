@@ -31,3 +31,4 @@
 # bitnami/etcd:3.4.35
 # snowdreamtech/frps:latest
 bitnami/prometheus:2.55.1
+prom/prometheus:v3.2.0
