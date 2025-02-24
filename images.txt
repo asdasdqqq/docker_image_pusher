@@ -30,5 +30,10 @@
 # minio/mc:latest
 # bitnami/etcd:3.4.35
 # snowdreamtech/frps:latest
-bitnami/prometheus:2.55.1
+# bitnami/prometheus:2.55.1
 # prom/prometheus:v3.2.0
+nacos/nacos-server:v2.4.3
+redis:7.2.6
+apache/kafka:3.8.0
+zookeeper:3.8.4
+apache/rocketmq:4.9.6
