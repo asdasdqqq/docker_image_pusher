@@ -37,4 +37,6 @@
 # apache/kafka:3.8.0
 # zookeeper:3.8.4
 # apache/rocketmq:4.9.6
-ansible/ansible
+ju2wheels/ansible:2.x-alpine-3.3
+ju2wheels/ansible:1.x-alpine-3.3
+ju2wheels/ansible:2.x-centos-7
