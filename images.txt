@@ -37,4 +37,4 @@
 # apache/kafka:3.8.0
 # zookeeper:3.8.4
 # apache/rocketmq:4.9.6
-alpine/ansible
+ansible/ansible
