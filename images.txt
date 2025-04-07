@@ -42,4 +42,5 @@ xhofe/alist:latest
 # ju2wheels/ansible:1.x-alpine-3.3
 # ju2wheels/ansible:2.x-centos-7
 
-python:3.9-slim
+# python:3.9-slim
+keking/kkfileview:4.1.0
