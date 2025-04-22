@@ -1,6 +1,8 @@
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
+hagb/docker-atrust:latest
+hagb/docker-easyconnect:7.6.7
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
@@ -43,4 +45,4 @@ xhofe/alist:latest
 # ju2wheels/ansible:2.x-centos-7
 
 # python:3.9-slim
-keking/kkfileview:4.1.0
+
