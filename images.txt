@@ -1,6 +1,6 @@
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-# xhofe/alist:latest
+xhofe/alist:v3.40.0
 # hagb/docker-atrust:latest
 # hagb/docker-easyconnect:7.6.7
 #支持指定架构
@@ -23,7 +23,7 @@
 # nicolaka/netshoot:v0.13
 # nacos/nacos-server:v2.4.3
 # nacos/nacos-server:v2.0.4
---platform=linux/arm64 nacos/nacos-server:v2.0.4-slim
+# --platform=linux/arm64 nacos/nacos-server:v2.0.4-slim
 # redis:7.4
 # redis:6.2.3
 # apache/rocketmq:4.9.7
