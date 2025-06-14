@@ -1,7 +1,7 @@
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:v3.40.0
-homeassistant/home-assistant:2025.6.1
+# xhofe/alist:v3.40.0
+homeassistant/home-assistant:2025.5.3
 # hagb/docker-atrust:latest
 # hagb/docker-easyconnect:7.6.7
 #支持指定架构
