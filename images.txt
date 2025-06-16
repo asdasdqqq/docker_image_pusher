@@ -4,6 +4,7 @@
 homeassistant/home-assistant:2025.6.1
 # hagb/docker-atrust:latest
 # hagb/docker-easyconnect:7.6.7
+filebrowser/filebrowser:v2.32.0-amd64-s6
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
