@@ -4,7 +4,7 @@
 # homeassistant/home-assistant:2025.6.1
 # hagb/docker-atrust:latest
 # hagb/docker-easyconnect:7.6.7
-ghcr.io/senshinya/moontv:latest
+# ghcr.io/senshinya/moontv:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
@@ -19,6 +19,7 @@ ghcr.io/senshinya/moontv:latest
 # mysql:5.7.44
 # mysql:8.0.40
 # mysql:8.2.0
+mysql:8.0
 # grafana/grafana:9.5.3
 # jenkins/jenkins:jdk17
 # nginx:1.25
