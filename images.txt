@@ -19,7 +19,7 @@
 # mysql:5.7.44
 # mysql:8.0.40
 # mysql:8.2.0
-mysql:8.0
+# mysql:8.0
 # grafana/grafana:9.5.3
 # jenkins/jenkins:jdk17
 # nginx:1.25
@@ -50,3 +50,9 @@ mysql:8.0
 
 # python:3.9-slim
 
+apache/apisix-dashboard:2.13-alpine
+apache/apisix:2.13.2-alpine
+bitnami/etcd:3.4.15
+nginx:1.19.0-alpine
+prom/prometheus:v2.25.0
+grafana/grafana:7.3.7
