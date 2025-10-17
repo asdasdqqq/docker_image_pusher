@@ -8,6 +8,7 @@
 # ghcr.io/senshinya/moontv:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+louislam/uptime-kuma:1.23.16
 
 # ----------------------------------------------------------------
 # postgres:13.7-bullseye
