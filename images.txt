@@ -60,4 +60,5 @@ twinproduction/gatus:v5.26.0
 # prom/prometheus:v2.25.0
 # grafana/grafana:7.3.7
 # cms部署
-sscms/core:latest 
+# sscms/core:latest 
+node:20-alpine
