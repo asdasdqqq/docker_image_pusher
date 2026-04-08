@@ -62,5 +62,7 @@ twinproduction/gatus:v5.26.0
 # cms部署
 # sscms/core:latest 
 # node:20-alpine
+# ================================================= 临时测试镜像
 # 数据库
 --platform=linux/arm64 qiuchenjun/hgdb-see:4.5.10.3
+--platform=linux/arm64 dataease/sqlbot:v1.7.0
