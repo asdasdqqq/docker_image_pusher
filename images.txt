@@ -9,7 +9,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 # louislam/uptime-kuma:1.23.16
-twinproduction/gatus:v5.26.0
+# twinproduction/gatus:v5.26.0
 
 # ----------------------------------------------------------------
 # postgres:13.7-bullseye
@@ -64,5 +64,6 @@ twinproduction/gatus:v5.26.0
 # node:20-alpine
 # ================================================= 临时测试镜像
 # 数据库
---platform=linux/arm64 qiuchenjun/hgdb-see:4.5.10.3
---platform=linux/arm64 dataease/sqlbot:v1.7.0
+# --platform=linux/arm64 qiuchenjun/hgdb-see:4.5.10.3
+# --platform=linux/arm64 dataease/sqlbot:v1.7.0
+--platform=linux/arm64 mysql:5.7.44
