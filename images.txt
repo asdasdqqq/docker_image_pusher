@@ -66,4 +66,4 @@
 # 数据库
 # --platform=linux/arm64 qiuchenjun/hgdb-see:4.5.10.3
 # --platform=linux/arm64 dataease/sqlbot:v1.7.0
---platform=linux/arm64 mysql:5.7.44
+--platform=linux/arm64 mysql:8.2.0
