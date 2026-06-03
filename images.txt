@@ -10,7 +10,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 # louislam/uptime-kuma:1.23.16
 # twinproduction/gatus:v5.26.0
-
+shadowsocks/shadowsocks-libev:latest
 # ----------------------------------------------------------------
 # postgres:13.7-bullseye
 # postgresql:11.14.0-debian-10-r22
@@ -43,6 +43,7 @@
 # prom/prometheus:v3.2.0
 # nacos/nacos-server:v2.4.3
 # redis:7.2.6
+# redis:4.0.11
 # apache/kafka:3.8.0
 # zookeeper:3.8.4
 # apache/rocketmq:4.9.6
@@ -68,4 +69,4 @@
 # --platform=linux/arm64 dataease/sqlbot:v1.7.0
 # --platform=linux/arm64 mysql:8.2.0
 
-redis:4.0.11
+
