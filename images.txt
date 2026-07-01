@@ -10,7 +10,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 # louislam/uptime-kuma:1.23.16
 # twinproduction/gatus:v5.26.0
-teddysun/shadowsocks-libev:3.3.6
+# teddysun/shadowsocks-libev:3.3.6
 # ----------------------------------------------------------------
 # postgres:13.7-bullseye
 # postgresql:11.14.0-debian-10-r22
@@ -69,4 +69,5 @@ teddysun/shadowsocks-libev:3.3.6
 # --platform=linux/arm64 dataease/sqlbot:v1.7.0
 # --platform=linux/arm64 mysql:8.2.0
 
-
+--platform=linux/arm64 openeuler/presto:0.293-oe2403sp2
+--platform=linux/arm64 openeuler/flume:1.11.0-oe2403sp3
