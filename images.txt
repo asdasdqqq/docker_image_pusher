@@ -69,5 +69,4 @@
 # --platform=linux/arm64 dataease/sqlbot:v1.7.0
 # --platform=linux/arm64 mysql:8.2.0
 
---platform=linux/arm64 openeuler/presto:0.293-oe2403sp2
---platform=linux/arm64 openeuler/flume:1.11.0-oe2403sp3
+--platform=linux/arm64 prestodb/presto:0.298.1
