@@ -68,5 +68,6 @@
 # --platform=linux/arm64 qiuchenjun/hgdb-see:4.5.10.3
 # --platform=linux/arm64 dataease/sqlbot:v1.7.0
 # --platform=linux/arm64 mysql:8.2.0
-
---platform=linux/arm64 prestodb/presto:0.298.1
+openeuler/presto:0.293-oe2403sp2
+openeuler/flume:1.11.0-oe2403sp3
+# --platform=linux/arm64 prestodb/presto:0.298.1
